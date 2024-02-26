@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215.285" height="165.911" viewBox="0 0 215.285 165.911">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.841" y1="0.119" x2="0.145" y2="0.914" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fee729"/>
+      <stop offset="1" stop-color="#fe77a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.158" y1="0.084" x2="0.849" y2="0.935" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1bcbfa"/>
+      <stop offset="1" stop-color="#ff53c9"/>
+    </linearGradient>
+  </defs>
+  <g id="B-c-logo" transform="translate(114 -2412.85)">
+    <g id="Group_1" data-name="Group 1" transform="translate(40 45)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M119.97,116.286h0c.06-4.326.1-8.507.119-12.426.017-3.483.09-6.982.16-10.366.237-11.41.461-22.187-1.454-30.416-5.781-24.825-20.777-27.5-26.956-27.5h-.41a54.477,54.477,0,0,1,1.065-6.734C94.963,18.09,99.416,10.33,105.731,5.781a23.086,23.086,0,0,1,7.5-3.583A22.415,22.415,0,0,1,119,1.417a14.546,14.546,0,0,1,2.3.154L209.285,0V74.33c0,.049,0,4.95-.367,10.408-.335,5.034-1.052,11.578-2.568,14.168-1.035,1.454-2.833,2.664-5.5,3.7a47.651,47.651,0,0,1-9.2,2.326c-7.085,1.194-15.916,1.784-24.456,2.354-10.044.671-20.43,1.365-27.751,3.049a177.836,177.836,0,0,0-19.474,5.951Z" transform="translate(-148 2367.85)" fill="url(#linear-gradient)"/>
+      <path id="Path_3" data-name="Path 3" d="M0,0,89.5,1.576s22.017-3.892,29.292,27.35c2.488,10.685,1.369,25.629,1.295,40.782-.138,28.247-1.295,58.053-1.295,58.053s-28.442-12.721-47.758-17.1C51.009,106.117,9.959,108.86,2.985,99.2,0,94.17,0,74.549,0,74.549Z" transform="translate(-154 2406)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
